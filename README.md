@@ -11,4 +11,6 @@ Using OpenTripPlanner to create this routes based on user's perferences and MTA'
 
 Frontend: React + Vite + Typescript
 
-Backend: ExpressJS + Typescript, OpenTripPlanner, SupaBase
+Backend: ExpressJS + Typescript, OpenTripPlanner
+
+Database: PostgreSQL (GIS) + SupaBase
